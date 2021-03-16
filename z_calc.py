@@ -1,7 +1,7 @@
 # z score calculator using tkinter gui
 # 3/15/21
 # z = (x - mean) / sd
-# something
+
 import tkinter
 from tkinter import messagebox
 import decimal
